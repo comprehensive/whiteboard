@@ -1,1 +1,1 @@
-# whiteboard application to test Azure devops pipelines
+# whiteboard application to test Azure devops pipelines (CI/CD)
